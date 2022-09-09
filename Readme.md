@@ -7,7 +7,7 @@ It took me 6 hours to complete.
 1. Css positions
 2. Gradients
 
-[![main page clickable image](./images/web%20design%20landing%20page.png" main page")](www.google.com)
+[![main page clickable image](./images/web%20design%20landing%20page.png" main page")](https://webdesigninglandingpage.netlify.app/)
 
 
-  ##### [Click here to view live project](www.google.com "click here to view page") 
+  ##### [Click here to view live project](https://webdesigninglandingpage.netlify.app/ "click here to view page") 
